@@ -6,7 +6,7 @@
 - Power Platform Enthusiast (Power Apps, Power Automate and Power BI)
   </br>   </br>
  
-    🔗 Links </div> </br>
+    🔗 Connect with me </div> </br>
     <a href="https://www.linkedin.com/in/brenda-leoni-23126a172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </br> 
 
