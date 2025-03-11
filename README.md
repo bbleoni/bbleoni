@@ -1,7 +1,7 @@
 ##  Hey, there! I'm Brenda 👋
 
 ## 📌 About Me </br>
--  Computer Scientist and developing post-graduation studies in Data Analytics </br>
+-  I'm a computer scientist and am developing postgraduate studies in data analytics </br>
 - Currently working as a Data Solution Architect
 - Power Platform Enthusiast (Power Apps, Power Automate and Power BI)
 - Passionate about Data Democratization and Sci-Fi movies 
